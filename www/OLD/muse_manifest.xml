@@ -1,0 +1,120 @@
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" ftp_hostname="ftp://ftp.wakwhite.be" ftp_rootfolder="/www" exportTarget="FTP" resolutions="1x" timestamp="1426361375492">
+  <folder name="css">
+    <file name="site_global.css" crc="3762831333"/>
+    <file name="master_b-gabarit.css" crc="444492998" ref="parcours:l-équipe:contact:actualité:produit:asbl-lje"/>
+    <file name="master_c-gabarit.css" crc="39080121" ref="payement"/>
+    <file name="master_a-gabarit.css" crc="3793606924" ref="index"/>
+    <file name="parcours.css" crc="3802521779" ref="parcours"/>
+    <file name="iefonts_parcours.css" crc="4191409699" ref="parcours"/>
+    <file name="l-_quipe.css" crc="34681039" ref="l-équipe"/>
+    <file name="iefonts_l-_quipe.css" crc="94920185" ref="l-équipe"/>
+    <file name="contact.css" crc="21238798" ref="contact"/>
+    <file name="payement.css" crc="3937428008" ref="payement"/>
+    <file name="iefonts_payement.css" crc="343118355" ref="payement"/>
+    <file name="index.css" crc="96997653" ref="index"/>
+    <file name="iefonts_index.css" crc="4200093634" ref="index"/>
+    <file name="actualit_.css" crc="4281627824" ref="actualité"/>
+    <file name="produit.css" crc="3933058503" ref="produit"/>
+    <file name="iefonts_produit.css" crc="55148613" ref="produit"/>
+    <file name="asbl-lje.css" crc="365923025" ref="asbl-lje"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:produit:l-équipe:parcours:contact:asbl-lje:actualité:payement"/>
+    <file name="museutils.js" crc="3777594392" ref="index:produit:l-équipe:parcours:contact:asbl-lje:actualité:payement"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:produit:l-équipe:parcours:contact:asbl-lje:actualité:payement"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:produit:l-équipe:parcours:contact:asbl-lje:actualité:payement"/>
+    <file name="pie.js" crc="3827607177" ref="index:produit:l-équipe:parcours:contact"/>
+    <file name="webpro.js" crc="474087315" ref="index:l-équipe:contact"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index:l-équipe"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index:l-équipe"/>
+    <file name="touchswipe.js" crc="100683906" ref="index:l-équipe"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="index:produit:l-équipe:parcours:contact:asbl-lje:actualité:payement"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index:produit:l-équipe:parcours:contact:asbl-lje:actualité:payement"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:produit:l-équipe:parcours:contact:asbl-lje:actualité:payement"/>
+    <file name="form_check.php" crc="306825315" ref="contact"/>
+    <file name="form_throttle.php" crc="4293816517" ref="contact"/>
+    <file name="form_process.php" crc="109188895" ref="contact"/>
+    <file name="form-u538.php" crc="463513838" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="fresh-green-blur.jpg" crc="341293088" ref="index:produit:l-équipe:parcours:contact:asbl-lje:actualité:payement"/>
+    <file name="u239-4.png" crc="213545111" ref="index"/>
+    <file name="ww logo.png" crc="4204572614" ref="index"/>
+    <file name="noun_8547_cc-u434.png" crc="385856804" ref="index"/>
+    <file name="ww logo-u1364.png" crc="421196642" ref="index"/>
+    <file name="1-crop-u2022.jpg" crc="3929925892" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2-crop-u2076.jpg" crc="232277288" ref="index"/>
+    <file name="flèche vers la droite-u2043-3-fr.png" crc="480213532" ref="index"/>
+    <file name="flèche vers la gauche-ieu2026-3-fr.png" crc="70369706" ref="index"/>
+    <file name="flèche vers la gauche.png" crc="381694299" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u2094-4.png" crc="421225092" ref="index"/>
+    <file name="u2095-4.png" crc="165899798" ref="index"/>
+    <file name="u445-full.png" crc="4165478885" ref="index"/>
+    <file name="noun_7211_cc.png" crc="4105759882" ref="index"/>
+    <file name="noun_9653_cc.png" crc="274375296" ref="index"/>
+    <file name="noun_68249_cc.png" crc="4217559774" ref="index"/>
+    <file name="noun_79917_cc.png" crc="4091128242" ref="index"/>
+    <file name="28.jpg" crc="3900547448" ref="index"/>
+    <file name="u2130-28.png" crc="265528981" ref="index"/>
+    <file name="4a653415fd-lje01-1.png" crc="212097719" ref="index:produit:l-équipe:parcours:contact:asbl-lje:actualité:payement"/>
+    <file name="ww logo-u1293.png" crc="487211719" ref="index"/>
+    <file name="ww logo-u1418.png" crc="421196642" ref="produit:l-équipe:parcours:contact:asbl-lje:actualité"/>
+    <file name="1.png" crc="4237156396" ref="produit"/>
+    <file name="2.png" crc="71112867" ref="produit"/>
+    <file name="wwdémarches.png" crc="77154040" ref="produit"/>
+    <file name="ww logo-u1298.png" crc="487211719" ref="produit:l-équipe:parcours:contact:asbl-lje:actualité"/>
+    <file name="img_0181-u1129-fr.jpg" crc="4069378164" ref="l-équipe"/>
+    <file name="samy-u987-fr.png" crc="473386326" ref="l-équipe"/>
+    <file name="manon-u982-fr.png" crc="522532131" ref="l-équipe"/>
+    <file name="audrey-u983-fr.png" crc="3818213954" ref="l-équipe"/>
+    <file name="virginie-u989-fr.png" crc="3861958693" ref="l-équipe"/>
+    <file name="sybille-u986-fr.png" crc="50285534" ref="l-équipe"/>
+    <file name="laurent-u985-fr.png" crc="307448719" ref="l-équipe"/>
+    <file name="nicolas-u984-fr.png" crc="4061552316" ref="l-équipe"/>
+    <file name="victoria-u988-fr.png" crc="393446479" ref="l-équipe"/>
+    <file name="gwendoline-u1476-fr.png" crc="4007438125" ref="l-équipe"/>
+    <file name="noelly-u1609-fr.png" crc="329524724" ref="l-équipe"/>
+    <file name="diego-u1614-fr.png" crc="532393045" ref="l-équipe"/>
+    <file name="jodie-u1628-fr.png" crc="4107895506" ref="l-équipe"/>
+    <file name="emile-u1630-fr.png" crc="493124369" ref="l-équipe"/>
+    <file name="inès-u1632-fr.png" crc="85153139" ref="l-équipe"/>
+    <file name="img_0200.jpg" crc="73766804" ref="l-équipe"/>
+    <file name="img_0227.jpg" crc="479442213" ref="l-équipe"/>
+    <file name="img_0206.jpg" crc="88716917" ref="l-équipe"/>
+    <file name="img_0208.jpg" crc="174121227" ref="l-équipe"/>
+    <file name="img_0216.jpg" crc="231220511" ref="l-équipe"/>
+    <file name="img_0225.jpg" crc="127419824" ref="l-équipe"/>
+    <file name="u2491.png" crc="3842917301" ref="parcours"/>
+    <file name="voyage maroc.jpg" crc="4171046928" ref="parcours"/>
+    <file name="28360x245.jpg" crc="199111244" ref="parcours"/>
+    <file name="img_1078.jpg" crc="3827159214" ref="parcours"/>
+    <file name="capture d’écran 2015-03-13 à 211315.jpg" crc="4016391805" ref="parcours"/>
+    <file name="capture d’écran 2015-03-13 à 211352.jpg" crc="49352879" ref="parcours"/>
+    <file name="cac-40-gdf-suez.png" crc="3798355714" ref="parcours"/>
+    <file name="decoster2-2.jpg" crc="220976043" ref="parcours"/>
+    <file name="10949787_10205962411602040_1938362439_n.jpg" crc="3906675146" ref="parcours"/>
+    <file name="pizza_hut.svg" crc="201243724" ref="parcours"/>
+    <file name="pizza_hut_poster_.png" crc="223125904" ref="parcours"/>
+    <file name="2000px-swatch_logosvg.png" crc="4268984963" ref="parcours"/>
+    <file name="capture d’écran 2015-03-13 à 211341.jpg" crc="4187592989" ref="parcours"/>
+    <file name="capture d’écran 2015-03-13 à 211326.jpg" crc="3759261573" ref="parcours"/>
+    <file name="u546-17.png" crc="3805482814" ref="contact"/>
+    <file name="u546-17-r.png" crc="4143819366" ref="contact"/>
+    <file name="u546-17-m.png" crc="4143819366" ref="contact"/>
+    <file name="u546-17-fs.png" crc="178982190" ref="contact"/>
+    <file name="instragram-logo.png" crc="4082903397" ref="actualité"/>
+    <file name="ww logo-u2814.png" crc="421196642" ref="payement"/>
+    <file name="ww logo-u2812.png" crc="487211719" ref="payement"/>
+    <file name="favicon.ico" crc="222570711" ref="index"/>
+  </folder>
+  <file name="index.html" crc="365957596" mt="1426361305664" redirect="true"/>
+  <file name="produit.html" crc="419410118" mt="1426361305680" redirect="true"/>
+  <file name="l-équipe.html" crc="237693899" mt="1426361305680" redirect="true"/>
+  <file name="parcours.html" crc="184062137" mt="1426361365194" redirect="true"/>
+  <file name="contact.html" crc="4077706181" mt="1426361372665" redirect="true"/>
+  <file name="asbl-lje.html" crc="119399894" mt="1426361305683" redirect="true"/>
+  <file name="actualité.html" crc="219025539" mt="1426361305684" redirect="true"/>
+  <file name="payement.html" crc="4184105832" mt="1426361305689" redirect="true"/>
+</manifest>
